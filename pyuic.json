@@ -1,0 +1,25 @@
+{
+    "files": [
+        [
+            "forms/editor.ui",
+            "qxpatheditor/api/forms"
+        ],
+        [
+            "forms/quick_ref.ui",
+            "qxpatheditor/api/forms"
+        ],
+        [
+            "forms/main_window.ui",
+            "qxpatheditor/app/forms"
+        ],
+        [
+            "forms/*.qrc",
+            "qxpatheditor/app/forms"
+        ]
+    ],
+    "pyrcc": "pyrcc5",
+    "pyrcc_options": "",
+    "pyuic": "pyuic5",
+    "pyuic_options": "--from-import",
+    "hooks": ["fix_qt_imports"]
+}
