@@ -12,6 +12,8 @@ The tool has been inspired by:
 
 - QRegexEditor: https://github.com/ColinDuquesnoy/QRegexEditor
 
+![Preview image](https://i.imgur.com/SNq3Swr.png)
+![Preview image](https://i.imgur.com/zRAV8Kq.png)
 
 Installation
 ------------
